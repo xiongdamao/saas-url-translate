@@ -64,7 +64,6 @@ public class UrlTranslate {
 
                             }
                         } else if (file.getName().endsWith(".jpg")
-                                || file.getName().endsWith(".jpg")
                                 || file.getName().endsWith(".sso")
                         ) {
 
